@@ -5,8 +5,9 @@ Estudando Flutter, Laravel e Kotlin ...
 
 <div align="center">
   <a href="https://github.com/marcoaudev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoaudev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaudev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoaudev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaudev&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="marco-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
