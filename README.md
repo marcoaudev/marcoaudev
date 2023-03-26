@@ -1,6 +1,6 @@
-# Hello World, me chamo Marco Aurélio 💭
+# Hello World
 
-💡 Atualmente estou trabalhando como Dev-Mobile com a framework Flutter...
+💡 Atualmente estou trabalhando como Dev Mobile com o framework Flutter...
 
 <div align="center">
   <a href="https://github.com/marcoaudev">
