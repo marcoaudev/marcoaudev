@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&pause=1000&color=0BF700&multiline=true&width=435&height=100&lines=Hello%2C+strange!+My+name+is+Marco.;I+hope+you+find+what+you+came+for...;Knowledge+is+the+path+to+freedom!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&pause=1000&color=0BF700&multiline=true&width=435&height=100&lines=Hello%2C+stranger!+My+name+is+Marco.;I+hope+you+find+what+you+came+for...;Knowledge+is+the+path+to+freedom!!!)](https://git.io/typing-svg)
